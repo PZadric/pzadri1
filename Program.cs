@@ -12,7 +12,9 @@ namespace pzadri1
     }
     class Newclass
     {
-        static void method() { }
+        static void method() { 
+            //KOMENTAR
+        }
     }
 }
 //ADDED A LINE FROM BROWSER*//
