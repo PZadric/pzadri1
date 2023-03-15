@@ -10,6 +10,10 @@ namespace pzadri1
             Console.WriteLine("Novo");
         }
     }
-    class Newclass { }
+       class Newclass
+    {
+        static void method() { 
+        }
+    }
 }
 //ADDED A LINE FROM BROWSER*//
